@@ -3,7 +3,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 
 
