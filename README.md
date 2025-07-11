@@ -1,6 +1,6 @@
 
 
-# 📚 Book Manager System
+# 📚 Book Management System
 
 A complete Laravel-based Book Management System to manage users, employees, books, sales, gifts, expenses, invoices, and more. Built with simplicity and usability in mind, this system is perfect for small businesses, educational centers, or anyone needing to track books and finances.
 
